@@ -3,3 +3,5 @@ Ultimate AWS Certified Solutions Architect Associate SAA-C03 preparation from th
 
 
 ### Here's What I will learn to pass the AWS Certified Solutions Architect Associate Exam
+  1 . The AWS Fundamentals 
+  
